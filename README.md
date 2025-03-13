@@ -1,10 +1,10 @@
-# AutoGPT: Build, Deploy, and Run AI Agents
+# ManusGPT: Build, Deploy, and Run AI Agents
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) &ensp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/Auto_GPT?style=social)](https://twitter.com/Auto_GPT) &ensp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**AutoGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
+**ManusGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
 
 ## Hosting Options 
    - Download to self-host
@@ -19,9 +19,9 @@ https://github.com/user-attachments/assets/d04273a5-b36a-4a37-818e-f631ce72d603
 
 This tutorial assumes you have Docker, VSCode, git and npm installed.
 
-### 🧱 AutoGPT Frontend
+### 🧱 ManusGPT Frontend
 
-The AutoGPT frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
+The ManusGPT frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
 
    **Agent Builder:** For those who want to customize, our intuitive, low-code interface allows you to design and configure your own AI agents. 
    
@@ -37,9 +37,9 @@ The AutoGPT frontend is where users interact with our powerful AI automation pla
 
 [Read this guide](https://docs.agpt.co/platform/new_blocks/) to learn how to build your own custom blocks.
 
-### 💽 AutoGPT Server
+### 💽 ManusGPT Server
 
-The AutoGPT Server is the powerhouse of our platform This is where your agents run. Once deployed, agents can be triggered by external sources and can operate continuously. It contains all the essential components that make AutoGPT run smoothly.
+The ManusGPT Server is the powerhouse of our platform This is where your agents run. Once deployed, agents can be triggered by external sources and can operate continuously. It contains all the essential components that make AutoGPT run smoothly.
 
    **Source Code:** The core logic that drives our agents and automation processes.
    
@@ -49,7 +49,7 @@ The AutoGPT Server is the powerhouse of our platform This is where your agents r
 
 ### 🐙 Example Agents
 
-Here are two examples of what you can do with AutoGPT:
+Here are two examples of what you can do with ManusGPT:
 
 1. **Generate Viral Videos from Trending Topics**
    - This agent reads topics on Reddit.
@@ -62,7 +62,7 @@ Here are two examples of what you can do with AutoGPT:
    - It uses AI to identify the most impactful quotes to generate a summary.
    - Then, it writes a post to automatically publish to your social media. 
 
-These examples show just a glimpse of what you can achieve with AutoGPT! You can create customized workflows to build agents for any use case.
+These examples show just a glimpse of what you can achieve with ManusGPT! You can create customized workflows to build agents for any use case.
 
 ---
 ### Mission and Licencing
@@ -72,7 +72,7 @@ Our mission is to provide the tools, so that you can focus on what matters:
 - 🧪 **Testing** - Fine-tune your agent to perfection.
 - 🤝 **Delegating** - Let AI work for you, and have your ideas come to life.
 
-Be part of the revolution! **AutoGPT** is here to stay, at the forefront of AI innovation.
+Be part of the revolution! **ManusGPT** is here to stay, at the forefront of AI innovation.
 
 **📖 [Documentation](https://docs.agpt.co)**
 &ensp;|&ensp;
@@ -87,7 +87,7 @@ Polyform Shield License: This license applies to the autogpt_platform folder.
 For more information, see https://agpt.co/blog/introducing-the-autogpt-platform
 
 ---
-## 🤖 AutoGPT Classic
+## 🤖 ManusGPT Classic
 > Below is information about the classic version of AutoGPT.
 
 **🛠️ [Build your own Agent - Quickstart](classic/FORGE-QUICKSTART.md)**
@@ -103,7 +103,7 @@ This guide will walk you through the process of creating your own agent and usin
 
 ### 🎯 Benchmark
 
-**Measure your agent's performance!** The `agbenchmark` can be used with any agent that supports the agent protocol, and the integration with the project's [CLI] makes it even easier to use with AutoGPT and forge-based agents. The benchmark offers a stringent testing environment. Our framework allows for autonomous, objective performance evaluations, ensuring your agents are primed for real-world action.
+**Measure your agent's performance!** The `agbenchmark` can be used with any agent that supports the agent protocol, and the integration with the project's [CLI] makes it even easier to use with ManusGPT and forge-based agents. The benchmark offers a stringent testing environment. Our framework allows for autonomous, objective performance evaluations, ensuring your agents are primed for real-world action.
 
 <!-- TODO: insert visual demonstrating the benchmark -->
 
